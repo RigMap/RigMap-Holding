@@ -3,13 +3,16 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Luke Burroughs -- Designer
+    Owen Melbourne -- Developer
 
 # THANKS
 
-    <name>
+    Clare Britton
+    Tom Parsley
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
     jQuery, Modernizr
+    Bootstrap 3, RepondJS
